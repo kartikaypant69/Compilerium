@@ -1,7 +1,5 @@
 # Tiny Compiler for Custom Language
 
-Repository: https://github.com/Nikhil-654/Tiny-Compiler-For-Custom-Language
-
 A modern, interactive web-based compiler interface for a custom programming language. This project provides a user-friendly platform to write, analyze, and optimize code in your custom language, featuring a beautiful UI and real-time feedback.
 
 ## Features
@@ -60,22 +58,5 @@ Compiler/
     rulesection.html    # Language rules and syntax page
 ```
 
-## Screenshots
-
-- **Main Interface:**
-  ![Main UI](templates/screenshot1.png)
-- **Language Rules Page:**
-  ![Rules UI](templates/screenshot2.png)
-
 ## Custom Language
 - See the **Language Rules & Syntax** page in the app for grammar, tokens, and sample programs.
-
-## Team Members
-
-- Ayush Panwar
-- Abhay Singh
-- Pankaj Rawat
-- Ankit Rawat
-
----
-Feel free to customize and extend this project for your own language or educational use!
