@@ -1,0 +1,13 @@
+var x = 10+20;
+var y = 20;
+var z = x + y;
+
+print z;
+
+if (x < y) {
+    print x;
+} else {
+    print y;
+}
+
+return z;
