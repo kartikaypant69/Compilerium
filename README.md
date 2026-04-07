@@ -21,8 +21,7 @@ A modern, interactive web-based compiler interface for a custom programming lang
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Nikhil-654/Tiny-Compiler-For-Custom-Language
-   cd Compiler
+   git clone https://github.com/kartikaypant69/Compilerium
    ```
 2. **Install dependencies**
    ```bash
